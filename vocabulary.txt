@@ -1,0 +1,4 @@
+cat: 고양이
+church: 교회
+temple: 절
+soap: 비누
